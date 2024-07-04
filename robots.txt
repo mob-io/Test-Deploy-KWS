@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: 
+
+Allow: /impressum
+Allow: /datenschutz
+
+Allow: /src/
+
+Sitemap: http://localhost:5173/sitemap.xml
